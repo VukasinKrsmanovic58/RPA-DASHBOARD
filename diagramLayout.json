@@ -1,0 +1,204 @@
+{
+  "version": "1.1.0",
+  "diagrams": [
+    {
+      "ordinal": 0,
+      "scrollPosition": {
+        "x": 131.36515943348184,
+        "y": 0
+      },
+      "nodes": [
+        {
+          "location": {
+            "x": 797.94810804724,
+            "y": 634.36034154895526
+          },
+          "nodeIndex": "Measures Table",
+          "nodeLineageTag": "7a48e087-1c9f-46df-b986-a994d9020309",
+          "size": {
+            "height": 104,
+            "width": 234
+          },
+          "zIndex": 11
+        },
+        {
+          "location": {
+            "x": 1260.8200165682167,
+            "y": 1040.7046971771997
+          },
+          "nodeIndex": "Reporting_Calendar",
+          "nodeLineageTag": "75e4eedf-2465-4cf3-9b03-332cfa9171dc",
+          "size": {
+            "height": 248,
+            "width": 234
+          },
+          "zIndex": 14
+        },
+        {
+          "location": {
+            "x": 1420,
+            "y": 141.6558282194984
+          },
+          "nodeIndex": "bot_utilization (2)",
+          "nodeLineageTag": "d64eb605-19f8-4bb2-b172-7e900b06c4cb",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 7
+        },
+        {
+          "location": {
+            "x": 1704,
+            "y": 141.6558282194984
+          },
+          "nodeIndex": "snow_tickets (2)",
+          "nodeLineageTag": "4e42f9ad-e0ac-4f68-bdc8-4eb2f7a31478",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 6
+        },
+        {
+          "location": {
+            "x": 2282.2901591345967,
+            "y": 379.804844906237
+          },
+          "nodeIndex": "jira_issues",
+          "nodeLineageTag": "36247614-afc6-4013-95ef-9b1fadbd7380",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 12
+        },
+        {
+          "location": {
+            "x": 2877.9780436032747,
+            "y": 98.64033978122103
+          },
+          "nodeIndex": "jira_issuestatuses",
+          "nodeLineageTag": "30aabe37-89e1-4d8c-91b3-02b52f5579e9",
+          "size": {
+            "height": 248,
+            "width": 234
+          },
+          "zIndex": 4
+        },
+        {
+          "location": {
+            "x": 1804.3347070602408,
+            "y": 1349.0288257896591
+          },
+          "nodeIndex": "jira_issuetypes",
+          "nodeLineageTag": "119e25f9-f65f-49e8-b6f0-908e765f9ce0",
+          "size": {
+            "height": 200,
+            "width": 234
+          },
+          "zIndex": 5
+        },
+        {
+          "location": {
+            "x": 2084.151564707161,
+            "y": 124.22198894811697
+          },
+          "nodeIndex": "jira_labels",
+          "nodeLineageTag": "3362b142-eb2f-4999-b5aa-ed76e4c6283c",
+          "size": {
+            "height": 152,
+            "width": 234
+          },
+          "zIndex": 8
+        },
+        {
+          "location": {
+            "x": 2066.1496779802328,
+            "y": 872.31907840657311
+          },
+          "nodeIndex": "jira_projects",
+          "nodeLineageTag": "21319590-c681-4b4e-9288-3c07f921a9a3",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 9
+        },
+        {
+          "location": {
+            "x": 2361.2307165550433,
+            "y": 845.18263105396545
+          },
+          "nodeIndex": "jira_users",
+          "nodeLineageTag": "0b200175-8e63-4631-a3f1-70845c55a624",
+          "size": {
+            "height": 248,
+            "width": 234
+          },
+          "zIndex": 13
+        },
+        {
+          "location": {
+            "x": 717.273773712421,
+            "y": 223.09973833694141
+          },
+          "nodeIndex": "Sort Labels",
+          "nodeLineageTag": "c6ed6ecd-fb0d-47cd-83c3-0de0d5be85d3",
+          "size": {
+            "height": 128,
+            "width": 234
+          },
+          "zIndex": 10
+        },
+        {
+          "location": {
+            "x": 2666.382983985186,
+            "y": 969.0671757501251
+          },
+          "nodeIndex": "TimeBuckets",
+          "nodeLineageTag": "c65ceb70-938d-4f2d-a517-05a9f746d0e6",
+          "size": {
+            "height": 200,
+            "width": 234
+          },
+          "zIndex": 1
+        },
+        {
+          "location": {
+            "x": 2771.9442764110586,
+            "y": 618.10152707345321
+          },
+          "nodeIndex": "dim_sprint",
+          "nodeLineageTag": "dab439e6-e41e-4b5c-97c5-a0e359ef016a",
+          "size": {
+            "height": 176,
+            "width": 234
+          },
+          "zIndex": 2
+        },
+        {
+          "location": {
+            "x": 2666.382983985186,
+            "y": 1361.8163057704439
+          },
+          "nodeIndex": "Bot Runs",
+          "nodeLineageTag": "b4be3a47-4cac-445a-b961-2ee7e0823772",
+          "size": {
+            "height": 200,
+            "width": 234
+          },
+          "zIndex": 3
+        }
+      ],
+      "name": "All tables",
+      "zoomValue": 28.419508051274217,
+      "pinKeyFieldsToTop": false,
+      "showExtraHeaderInfo": false,
+      "hideKeyFieldsWhenCollapsed": false,
+      "tablesLocked": false
+    }
+  ],
+  "selectedDiagram": "All tables",
+  "defaultDiagram": "All tables"
+}

@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Report",
+    "displayName": "RPA dashboard - Cleaned Up"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "3f883282-1698-468d-b604-380a5a3eeb8c"
+  }
+}
